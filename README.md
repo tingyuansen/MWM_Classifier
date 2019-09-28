@@ -11,7 +11,7 @@ python setup.py install
 The [tutorial](https://github.com/tingyuansen/MWM_Classifier/blob/master/tutorial.ipynb) shows some simple use cases.
 
 ## Dependencies
-* Training a new neural network requires [PyTorch](http://pytorch.org/).
+* Running this package requires [PyTorch](http://pytorch.org/).
 * All these dependencies will be automatically installed alongside with this package
 * I develop this package in Python 3.7 using Anaconda.
 
